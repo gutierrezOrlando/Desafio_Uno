@@ -4,7 +4,7 @@
 
 Compilar y ejecutar el proyecto
 --------------------------------
-Para copilar el proyecto se requiere Java y Maven instalado. Ingresar al directorio ApiPeriodos ejecutar el siguiente comando maven
+Para copilar el proyecto se requiere Java y Maven instalado. Ingresar al directorio DesafioUno ejecutar el siguiente comando maven
 
 mvn package
 
